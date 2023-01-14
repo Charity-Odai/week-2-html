@@ -1,0 +1,20 @@
+h1{
+	color: purple;
+	text-align: center;
+	background-color: black;
+	width: 300px;
+	margin-left: 500px;
+}
+body{
+	background-color: lightblue;
+}
+
+form{
+	text-align: center;
+	background-color: pink;
+	border: 1px lightpink;
+	border-radius: 4%;
+	width: 180px;
+	margin: 25px;
+	margin-left:550px;
+}
